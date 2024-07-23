@@ -1,0 +1,1 @@
+This is template vector class.It has basic methods for adding and removing elements.Also,there are some methods for maping and filtering elements.
